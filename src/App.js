@@ -1,17 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import { Component } from 'Component';
 
-function App() {
+function Component(props) {
   return (
     <div>
-      Hello Word
-      
-
-
+      <h1>This is a Multiplayer game</h1>
 
     </div>
     
   );
 }
 
-export default App;
+export default Component;
