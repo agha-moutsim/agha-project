@@ -1,15 +1,16 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
-import { Component } from 'Component';
+import Component from './Component';
 
-function Component(props) {
+function App() {
   return (
     <div>
-      <h1>This is a Multiplayer game</h1>
+      <h1>This is a Multiplayer Game</h1>
+      <h1>My Favorite Game is God of War Ragnarok</h1>
+ 
 
     </div>
-    
   );
 }
 
-export default Component;
+export default App;
